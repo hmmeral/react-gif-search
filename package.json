@@ -1,0 +1,29 @@
+{
+  "name": "react-gif-search",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "3.3.7",
+    "firebase": "^4.1.3",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "react-modal": "^2.2.1",
+    "react-redux": "^5.0.5",
+    "react-router-dom": "^4.1.1",
+    "react-router-redux": "^4.0.8",
+    "redux": "^3.7.1",
+    "redux-form": "^6.8.0",
+    "redux-promise": "^0.5.3",
+    "redux-thunk": "^2.2.0",
+    "superagent": "^3.5.2"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.10"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
